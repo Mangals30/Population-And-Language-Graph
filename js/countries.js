@@ -1,6 +1,4 @@
-  
-const countries = [
-    {
+  const countries = [{
       name: 'Afghanistan',
       capital: 'Kabul',
       languages: ['Pashto', 'Uzbek', 'Turkmen'],
